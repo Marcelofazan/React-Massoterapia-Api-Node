@@ -2,7 +2,7 @@
 Aplicativo de agendamento de sessões de massoterapia em React e Node.js com banco de dados Postgree. 
 
 #### 🎨 Aqui está uma demonstração do Projeto
-<img width="800" height="350" alt="Massoterapia" src="https://github.com/user-attachments/assets/ce90cb36-2c69-4959-a637-3e1ee9b2b451" />
+<img width="700" height="350" alt="Massoterapia" src="https://github.com/user-attachments/assets/ce90cb36-2c69-4959-a637-3e1ee9b2b451" />
 
 ## 📁 Frontend
 #### 📋 O que você vai encontrar neste projeto
